@@ -1,6 +1,6 @@
 '''
 Author: Rajat Bullakkanavar
-Language used: Pythona
+Language used: Python
 Project name: Automated Toll Gate
 
 
